@@ -1,2 +1,2 @@
 Here is my first file.
-It is a wonderful text file :D
+It is a wonderful text file.
