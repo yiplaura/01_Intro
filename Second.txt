@@ -1,2 +1,3 @@
 This is my second text file :D
 I like this class.
+I wish I was better at this :c
